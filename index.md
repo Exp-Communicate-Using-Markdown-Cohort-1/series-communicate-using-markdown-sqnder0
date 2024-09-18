@@ -5,3 +5,9 @@
 ```
 print("Hello world!")
 ```
+
+## A list:
+
+- [ ] Todo nr 1
+- [ ] Todo nr 2
+- [ ] Todo nr 3
